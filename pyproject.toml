@@ -10,6 +10,9 @@ package-mode = false
 python = "^3.12"
 torch = "^2.3.0"
 polars = "^0.20.31"
+jupyter = "^1.0.0"
+numpy = "^1.26.4"
+scikit-learn = "^1.5.0"
 
 
 [build-system]
